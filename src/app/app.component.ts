@@ -14,6 +14,7 @@ export class AppComponent {
   title = signal<string>( 'Victor Ruiz');
 
   clickAlert(){
+    alert('Heyyyyyyy')
 
   }
 }
